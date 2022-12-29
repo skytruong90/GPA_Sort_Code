@@ -7,7 +7,7 @@
 3. Run the project with any IDE.
 
 ## My Objective: 
-### 
+### To create a GPA sorting code that would let end user add students, display student records, and sort their name as well as their GPA.
 
 ## Sceenshot:
 <img src= "" width="700">
