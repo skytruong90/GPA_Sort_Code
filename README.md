@@ -1,8 +1,8 @@
 # Title: GPA Sorting
 ### I worked on this by myself and the programming language I used is C Programming. 
 
-## How to install: https://github.com/skytruong90/GPA_Sorting.git
-1. Clone the repository: 
+## How to install:
+1. Clone the repository:  https://github.com/skytruong90/GPA_Sorting.git
 2. The main code is inside the code folder when you download everything.
 3. Run the project with any IDE.
 
