@@ -4,13 +4,15 @@
 ## How to install:
 1. Clone the repository:  https://github.com/skytruong90/GPA_Sorting.git
 2. The main code is inside the code folder when you download everything.
-3. Run the project with any IDE.
+3. Run the project with VS code and download the C programming extension or you can use online compilert to run this code.
 
 ## My Objective: 
 ### To create a GPA sorting code that would let end user add students, display student records, and sort their name as well as their GPA.
 
-## Sceenshot:
-<img src= "" width="700">
+## Explaination of the code:
+This is a GPA sorting program that allows the user to input information about students, including their name and GPA, and then sort the information based on the student's name or GPA. The program uses a struct to store the student's name and GPA, and a dynamic array of pointers to structs to store multiple students' information.
+The program's main function contains a menu that allows the user to choose different options, including adding a new student, displaying all student records, sorting by name, sorting by GPA, or quitting the program. When the user chooses to add a new student, the program prompts the user to input the student's name and GPA, and stores this information in the dynamic array. When the user chooses to display all student records, the program prints out a table showing the student's name and GPA. When the user chooses to sort by name or GPA, the program uses a bubble sort algorithm to rearrange the order of the students' information based on the chosen sorting criteria. The program then displays the sorted information.
+The program also includes several helper functions, including functions to display the menu, flush the input buffer, and allocate memory for a new student struct.
 
 ## What did I learned:
 1. Familiarity with the C programming language: Developing a program in C may have provided you with a deeper understanding of the language syntax and data structures.
