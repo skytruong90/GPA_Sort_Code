@@ -1,4 +1,4 @@
-# Title: GPA Sorting
+# GPA Sorting
 ### I worked on this by myself and the programming language I used is C Programming. 
 
 ## How to install:
